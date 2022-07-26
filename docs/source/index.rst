@@ -1,22 +1,28 @@
-Welcome to Lumache's documentation!
+Welcome to DeepST's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+.. StaGATE documentation master file, created by
+   sphinx-quickstart on Thu Sep 16 19:43:51 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+DeepST – A versatile graph contrastive learning framework for spatially informed clustering, integration and deconvolution of spatial transcriptomics
+=====================================================================================================================================================
 
 .. toctree::
+   :maxdepth: 1
 
-   usage
-   api
+   Installation
+   Tutorial 1: 10X Visium
+   Tutorial 2: scRNA and ST data integration (deconvolution)
+
+.. image:: ../Images/DeepST.png
+   :width: 600
+
+Overview
+========
+DeepST is a versatile graph contrastive self-supervised learning model that incorporates spatial location information and gene expression profiles to accomplish three key tasks, spatial clustering, spatial transcriptomics (ST) data integration, and single-cell RNA-seq (scRNA-seq) transfer onto ST. DeepST combines graph neural networks (GNNs) with contrastive self-supervised learning to learn spot representations in the ST data by modeling gene expressions and spatial locaiton information. After the representation learning, the non-spatial alignment algorithm is used to cluster the spots into different spatial domains. Each cluster is regarded as a spatial domain, containing spots with similar gene expression profiles and spatially proximate. DeepST can jointly analyze multiple ST samples while correcting batch effects, which is achieved by smoothing features between spatially adjacent spots across samples. For the scRNA-seq transfer onto ST data, a mapping matrix is trained via an augmentation-free contrastive learning mechanism, where the similarity of spatially adjacent spots are maximized while those of spatially non-adjacent spots are minimized. With the learned mapping matrix, arbitrary cell attributes (e.g., cell type and sample type) can be flexibly projected onto spatial space.
+
+Citation
+========
+XXX et al. (2022). DeepST: A versatile graph contrastive learning framework for spatially informed clustering, integration and deconvolution of spatial transcriptomics. XXX.
