@@ -16,12 +16,9 @@ Dowloading the package from https://github.com/JinmiaoChenLab/DeepST/
 
 .. code-block:: python
 
-   git clone https://github.com/JinmiaoChenLab/DeepST
-
+   git clone https://github.com/JinmiaoChenLab/DeepST 
    cd DeepST-main
-
    python setup.py build
-
    python setup.py install --user
 
 2. Anaconda
