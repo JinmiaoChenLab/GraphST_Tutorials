@@ -8,7 +8,7 @@ Welcome to DeepST's documentation!
 
 DeepST – A versatile graph contrastive learning framework for spatially informed clustering, integration and deconvolution of spatial transcriptomics
 =====================================================================================================================================================
-Contents:
+
 .. toctree::
    :maxdepth: 1
    
