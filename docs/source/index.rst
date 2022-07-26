@@ -12,7 +12,7 @@ DeepST – A versatile graph contrastive learning framework for spatially inform
 .. toctree::
    :maxdepth: 1
    
-   Tutorial 1_10X Visium
+   T1_10X_Visium
 
 .. image:: https://github.com/JinmiaoChenLab/DeepST_Tutorials/tree/main/docs/Figures/DeepST.png
    :width: 600
