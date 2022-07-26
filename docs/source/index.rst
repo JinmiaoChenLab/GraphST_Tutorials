@@ -6,7 +6,7 @@ Welcome to DeepST's documentation!
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-DeepST – A versatile graph contrastive learning framework for spatially informed clustering, integration and deconvolution of spatial transcriptomicsssss
+DeepST – A versatile graph contrastive learning framework for spatially informed clustering, integration and deconvolution of spatial transcrss
 =====================================================================================================================================================
 
 .. toctree::
