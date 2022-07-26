@@ -16,9 +16,12 @@ Dowloading the package from https://github.com/JinmiaoChenLab/DeepST/
 
 .. code-block:: python
 
-   git clone https://github.com/JinmiaoChenLab/DeepST 
+   git clone https://github.com/JinmiaoChenLab/DeepST
+   
    cd DeepST-main
+   
    python setup.py build
+   
    python setup.py install --user
 
 2. Anaconda
@@ -31,13 +34,17 @@ Create conda environment and install DeepST package.
 
    #create an environment called DeepST
    conda create -n DeepST python=3.8
+   
    #activate your environment
    conda activate DeepST
    
    #install package
    git clone https://github.com/JinmiaoChenLab/DeepST
-   cd DeepST-main  
+   
+   cd DeepST-main 
+   
    python setup.py build
+   
    python setup.py install --user
    
    
