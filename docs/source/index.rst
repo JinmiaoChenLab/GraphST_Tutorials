@@ -18,7 +18,7 @@ DeepST – A versatile graph contrastive learning framework for spatially inform
    Tutorial 3: XXX
    Tutorial 4: XXX
 
-.. image:: ../Images/DeepST.png
+.. image:: ./Figures/DeepST.png
    :width: 600
 
 Overview
