@@ -16,7 +16,7 @@ DeepST – A versatile graph contrastive learning framework for spatially inform
    Tutorial 1_10X Visium
    Tutorial 2_scRNA and ST data integration
 
-.. image:: ../Figures/DeepST.png
+.. image:: ../Figures/DeepST.jpg
    :width: 800
 
 Overview
