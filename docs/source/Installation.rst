@@ -6,8 +6,8 @@
 Installation
 ============
 
-The DeepST package is developed based on the pytorch framework and can be implemented with both GPU and CPU. 
-We recommend running the package with GPU. Please ensure that pytorch and CUDNN are installed correctly. For the version information, please refer to requirement.txt. We provide two ways to install the package of DeepST.
+The DeepST package is developed based on the pytorch framework and can be implemented on both GPU and CPU. 
+We recommend running the package on GPU. Please ensure that pytorch and CUDNN are installed correctly. For the version information, please refer to requirement.txt. We provide two ways to install the package of DeepST.
 
 1. Python
 ---------------------
