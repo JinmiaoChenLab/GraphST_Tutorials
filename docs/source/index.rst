@@ -26,5 +26,5 @@ DeepST is a versatile graph contrastive self-supervised learning model that inco
 
 Citation
 ========
-XXX et al. (2022). DeepST: A versatile graph contrastive learning framework for spatially informed clustering, integration and deconvolution of spatial transcriptomics. XXX.
+Long et al. (2022). DeepST: A versatile graph contrastive learning framework for spatially informed clustering, integration and deconvolution of spatial transcriptomics. BioRxiv.
 
