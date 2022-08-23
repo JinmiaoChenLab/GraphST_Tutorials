@@ -7,7 +7,7 @@ Installation
 ============
 
 The DeepST package is developed based on the pytorch framework and can be implemented on both GPU and CPU. 
-We recommend running the package on GPU. Please ensure that pytorch and CUDNN are installed correctly. For the version information, please refer to requirement.txt. We provide two ways to install the package of DeepST.
+We recommend running the package on GPU first. Please ensure that pytorch and CUDNN are installed correctly. To run DeepST, all dependencies included in the file requirement.txt need to be installed. We provide two ways to install the package of DeepST.
 
 1. Python
 ---------------------
@@ -47,4 +47,9 @@ Create conda environment and install DeepST package.
    
    python setup.py install --user
    
+   #To use the environment in jupyter notebook, add python kernel for this environment.
+
+   pip install ipykernel
+
+   python -m ipykernel install --user --name=DeepST
    
