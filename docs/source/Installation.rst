@@ -18,7 +18,7 @@ Dowloading the package from https://github.com/JinmiaoChenLab/DeepST/
 
    git clone https://github.com/JinmiaoChenLab/DeepST
    
-   cd DeepST-main
+   cd DeepST
    
    python setup.py build
    
