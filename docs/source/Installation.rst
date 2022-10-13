@@ -41,9 +41,9 @@ Create conda environment and install DeepST package.
    conda activate DeepST
    
    #install package
-   git clone https://github.com/JinmiaoChenLab/DeepST
+   git clone https://github.com/JinmiaoChenLab/DeepST.git
    
-   cd DeepST-main 
+   cd DeepST
    
    python setup.py build
    
