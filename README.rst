@@ -1,4 +1,4 @@
-DeepST tutorial
+GraphST tutorial
 =======================================
 
 
