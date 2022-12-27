@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'DeepST'
+project = 'GraphST'
 copyright = '2022, Yahui Long'
 author = 'Yahui Long'
 
-release = '1.0'
-version = '1.0.0'
+release = '1.1'
+version = '1.1.1'
 
 # -- General configuration
 
