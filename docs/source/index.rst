@@ -6,7 +6,7 @@ Welcome to GraphST's documentation!
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-GraphST – Spatially informed clustering, integration, and deconvolution of spatial transcriptomics with GraphST
+Spatially informed clustering, integration, and deconvolution of spatial transcriptomics with GraphST
 =====================================================================================================================================================
 
 .. toctree::
