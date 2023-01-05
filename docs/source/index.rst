@@ -28,5 +28,5 @@ GraphST is a versatile graph self-supervised contrastive learning model that inc
 
 Citation
 ========
-Long et al. (2022). DeepST: A novel graph contrastive learning model for spatially informed clustering, integration and deconvolution of spatial transcriptomics. BioRxiv.
+Long et al. (2023). Spatially informed clustering, integration, and deconvolution of spatial transcriptomics with GraphST. BioRxiv.
 
