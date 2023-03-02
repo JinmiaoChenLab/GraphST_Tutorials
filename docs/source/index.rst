@@ -28,5 +28,5 @@ GraphST is a versatile graph self-supervised contrastive learning model that inc
 
 Citation
 ========
-Long et al. (2023). Spatially informed clustering, integration, and deconvolution of spatial transcriptomics with GraphST. **Nature Communications**. (Accepted)
+Long et al. Spatially informed clustering, integration, and deconvolution of spatial transcriptomics with GraphST. _**Nature Communications**_. 14, 1155 (2023)
 
